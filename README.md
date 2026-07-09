@@ -1,3 +1,20 @@
+
+## 🚀 Live Demo
+
+**Streamlit App:** https://YOUR-APP.streamlit.app
+
+**GitHub Repository:** https://github.com/sinchanamoulya231ec259-jpg/RTO-Intelligence-Platform
+## Dashboard
+
+![Home](images/home.png)
+
+![Dashboard](images/dashboard.png)
+
+![Dashboard 2](images/dashboard2.png)
+
+## Prediction
+
+![Prediction](images/prediction.png)
 # 📦 AI-Powered RTO Intelligence Platform
 
 ## 🚀 Overview
